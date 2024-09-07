@@ -45,4 +45,4 @@ Quer ajudar a gente a deixar essa aplicação ainda mais incrível? Seja muito b
 
 **Gostaria de personalizar ainda mais esse README?** Podemos adicionar mais detalhes sobre a estrutura do projeto, as bibliotecas utilizadas (se houver) ou até mesmo um guia de estilo para o código. 
 
-**O que você acha?**
+**Link da vercel:** https://olimpiadas-chi.vercel.app/
