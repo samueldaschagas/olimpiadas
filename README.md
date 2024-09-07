@@ -1,4 +1,4 @@
-## Buscador de Atletas: Encontre seu ídolo esportivo!
+## Buscador de Atletas: Encontre seu ídolo esportivo! - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
